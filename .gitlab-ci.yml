@@ -1,0 +1,14 @@
+image: continuumio/miniconda3
+
+pages:
+  script:
+  - conda env create -f environment.yml
+  - source activate jupyterbook_map412
+  - pwd
+  - ls
+  - jupyter-book build . 
+  - mv _build/html/ public/
+  artifacts:
+    paths:
+    - public/
+

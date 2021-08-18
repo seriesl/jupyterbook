@@ -1,0 +1,19 @@
+format: jb-book
+root: content/home
+parts:
+- caption: Chapitres
+  chapters:
+  - file: content/chapter/float/float
+    sections:
+    - file: content/chapter/float/mpmath
+    - file: content/chapter/float/rump
+  - file: content/chapter/interpolation/interpolation
+    sections:
+    - file: content/chapter/interpolation/newton
+- caption: Petites Classes
+  chapters:
+  - file: content/pc/pc1
+    title: PC 1
+- caption: Tutorat Python
+  chapters:
+  - file: content/tutorial/tuto_01

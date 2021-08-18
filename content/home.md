@@ -1,0 +1,9 @@
+# Introduction à l'analyse numérique : des fondements mathématiques à l'expérimentation avec Jupyter 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tristique faucibus molestie. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed tincidunt, felis a vestibulum vestibulum, dolor metus maximus nisi, eu ornare nibh ligula ac nisi. Vivamus nec lobortis sapien, vel condimentum risus. Etiam sodales libero ac massa porta, eu tempus odio fringilla. Fusce at odio quis diam faucibus ultrices. Nulla facilisi. Etiam molestie aliquam ipsum eget hendrerit. Aliquam erat volutpat. Morbi imperdiet neque ut ante suscipit, venenatis ultricies turpis fermentum. Nullam imperdiet metus varius dolor hendrerit euismod. Curabitur ligula quam, tristique eu dui ut, pulvinar lacinia ante.
+
+Donec eu felis ac ligula pulvinar tempus non ut velit. Suspendisse aliquam tincidunt est, et gravida orci pharetra at. Duis lacinia urna at lorem luctus, eget blandit turpis iaculis. Praesent euismod imperdiet faucibus. Nullam vitae purus ligula. Vestibulum eu posuere quam, ut congue quam. Phasellus nec condimentum ipsum, nec lacinia velit. Nam cursus lacus ligula, a egestas quam finibus at. Sed non nulla gravida, blandit purus eu, condimentum odio. Fusce tellus diam, eleifend id dui vitae, lobortis lobortis tortor. Maecenas vulputate dolor lectus, ac cursus nisl hendrerit sit amet. Maecenas laoreet enim ac augue venenatis tristique. Sed ultrices quam ipsum, id placerat tellus porttitor quis. Vivamus laoreet vel ligula cursus luctus.
+
+```{note}
+Cras ut sodales magna. Suspendisse nec laoreet ante, eu malesuada risus. Mauris commodo ultricies commodo. Nulla et augue at ipsum imperdiet consequat. Vivamus rutrum imperdiet euismod. Ut placerat dolor aliquam laoreet tempor. Aenean elementum dolor sit amet dui lobortis, eget placerat nisl lobortis. Etiam lacinia massa purus, ut porttitor massa sollicitudin ut.
+```

@@ -1,0 +1,9 @@
+name: jupyterbook_map412
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - jupyter-book=0.11.2
+  - numpy
+  - mpmath
+  - plotly
