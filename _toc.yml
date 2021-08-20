@@ -7,6 +7,9 @@ parts:
     sections:
     - file: content/chapter/float/mpmath
     - file: content/chapter/float/rump
+    - file: content/chapter/float/associativite
+    - file: content/chapter/float/cond
+    - file: content/chapter/float/stability
   - file: content/chapter/interpolation/interpolation
     sections:
     - file: content/chapter/interpolation/newton
