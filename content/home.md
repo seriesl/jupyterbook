@@ -11,8 +11,8 @@ Le polycopié permet de fournir une base solide pour le premier point au-delà d
 Nous avons donc entrepris cette année de fournir un lieu unifié, grâce aux possibilités qu'offre le JupyterBook, permettant une utilisation facilitée des notebooks et une véritable flexibilité pour les élèves. Trois modes sont alors possibles : 
 
 - Utiliser le JupyterBook via son url. Cela ne permet pas de modifier les notebooks mais permet de comprendre le fonctionnement des méthodes à l'aide de "sliders" et donc l'influence de certains paramètres
-- Lancer via Binder une exécution du notebook sur une plateforme en ligne (directement accessible sur la page lorsque l'on est sur le JupyterBook et que l'on travaille sur une page de type notebook). Cela permet de modifier le notebook directement et de l'exécuter mais il faut prendre garde que le notebook n'est pas sauvegardé lorsque la session se termine
-- Télécharger les notebook Jupyter et les exécuter dans son environnement personnel ou sur le JupyterHub de l'École polytechnique que nous avons mis en place spécifiquement pour ce type d'utilisation.
+- Télécharger les notebook Jupyter et les exécuter dans son environnement personnel 
+- Utiliser le JupyterHub de l'École polytechnique que nous avons mis en place spécifiquement pour ce type d'utilisation ou lancer via Binder une exécution du notebook sur une plateforme en ligne (directement accessible sur la page lorsque l'on est sur le JupyterBook et que l'on travaille sur une page de type notebook). Cela permet de modifier le notebook directement et de l'exécuter mais il faut prendre garde que le notebook n'est pas sauvegardé lorsque la session se termine
 
 
 
