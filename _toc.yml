@@ -8,6 +8,7 @@ parts:
     - file: content/chapter/float/mpmath
     - file: content/chapter/float/rump
     - file: content/chapter/float/associativite
+    - file: content/chapter/float/systeme_lineaire
     - file: content/chapter/float/cond
     - file: content/chapter/float/stability
   - file: content/chapter/interpolation/interpolation
