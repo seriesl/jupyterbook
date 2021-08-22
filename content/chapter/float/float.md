@@ -1,4 +1,4 @@
-# Flottants, Conditionnement et Stabilité
+# Arithmétique flottante, conditionnement et stabilité
 
 Le Chapitre 1 du cours introduit d’une par la représentation des nombres réels en machine et les arrondis associés, mais surtout les notions de conditionnement d’un problème et de stabilité au sens inverse. Ces notions permettent d’analyser les erreurs potentielles que l’on peut générer lorsque l’on implémente une méthode numérique sur ordinateur.
 
