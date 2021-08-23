@@ -21,3 +21,4 @@ parts:
 - caption: Tutorat Python
   chapters:
   - file: content/tutorial/tuto_01
+  - file: content/tutorial/tuto_02
