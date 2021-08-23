@@ -1,6 +1,6 @@
 # Introduction à l'analyse numérique : des fondements mathématiques à l'expérimentation avec Jupyter 
 
-Dans le cadre du cours de 2A de l'École polytechnique MAP412 : ``Introduction à l'Analyse Numérique : des fondements mathématiques à l'expérimentation avec Jupyter'', les étudiants doivent se familiariser avec trois niveaux de compétences : 
+Dans le cadre du cours de 2A de l'École polytechnique MAP412 : « Introduction à l'Analyse Numérique : des fondements mathématiques à l'expérimentation avec Jupyter », les étudiants doivent se familiariser avec trois niveaux de compétences : 
 
 - Compréhension des fondement mathématiques et de l'analyse numérique théorique 
 - Conception et programmation des méthodes en Python 
