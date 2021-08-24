@@ -2,8 +2,10 @@
 
 Afin de pouvoir exécuter les notebooks mise à disposition pour les cours et les pc, trois possibilités sont possibles :
 
-- Télécharger les notebooks Jupyter et les exécuter dans son environnement personnel 
+## Utiliser son environnement personnel
 
+Pour ce mode, il suffit de télécharger les notebooks Jupyter depuis ce site et les exécuter sur sa machine. Pour installer l'environnement logiciel nécessaire à l'exécution des notebooks du cours, suivre la procédure suivante.
+  
 ```{admonition} Procédure pour installer Jupyter Notebook
 
 - Installer la dernière version de miniconda contenant Python 3 (disponible sur https://conda.io/miniconda.html).
@@ -21,20 +23,24 @@ Afin de pouvoir exécuter les notebooks mise à disposition pour les cours et le
 
 `conda activate map412` 
 
+
 -  Installer les packages python nécessaires pour le cours :
 
 `conda install jupyter mpmath numpy scipy matplotlib bokeh ipywidgets plotly`
+
 
 -  Lancer le serveur Jupyter :
 
 `jupyter notebook` ou `jupyter lab`
 ```
 
-- Télécharger les notebooks Jupyter et les exécuter dans le JupyterHub de l'école
+## Utiliser le JupyterHub de l'école
+
+Pour ce mode, il suffit de télécharger les notebooks Jupyter depuis ce site et les copier vers le serveur `JupyterHub` de l'école (cf. procéduire suivante).
 
 ```{admonition} Utilisation du JupyterHub de l'école
 
-- Dans un navigateur, se rendre sur le site https://jupytercloud.idcs.polytechnique.fr/ et cliquer sur le lien `jupyter` puis sur le bouton `Sign in with CNRES/INSMI/Mathrice OpenID-Connect Provider`
+- Dans un navigateur, se rendre sur le site https://jupytercloud.idcs.polytechnique.fr/ et cliquer sur le lien `jupyter` puis sur le bouton `Sign in with CNRS/INSMI/Mathrice OpenID-Connect Provider`
 
 
 - Sélectionnez l'établissement Ecole Polytechnique Palaiseau puis utiliser vos identifiants de polytechnique pour vous connecter sur la plateforme
@@ -52,4 +58,7 @@ Afin de pouvoir exécuter les notebooks mise à disposition pour les cours et le
 - Remarque : déplacer vos notebooks dans le répertoire `persistent` afin qu'ils soient conserver pour une prochaine session  
 ``` 
 
-- Utiliser BinderHub
+## Utiliser Binder
+
+Binder propose de déployer un environnement Jupyter accessible en ligne, sans aucune installation, à partir d’un dépôt de git contenant des notebooks.
+Pour lancer les notebooks du cours, il suffit de cliquer sur le lien binder présent sur chaque page du site proposant un notebook. 
