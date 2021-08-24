@@ -1,6 +1,9 @@
 format: jb-book
 root: content/home
 parts:
+- caption: 
+  chapters:
+  - file: content/mode_emploi
 - caption: Chapitres
   chapters:
   - file: content/chapter/float/float
